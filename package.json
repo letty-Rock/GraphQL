@@ -1,0 +1,23 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node -r esm ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letty-Rock/GraphQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letty-Rock/GraphQL/issues"
+  },
+  "homepage": "https://github.com/letty-Rock/GraphQL#readme",
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
